@@ -1,6 +1,8 @@
 package main
 
-// Modified from https://gobyexample.com/select
+// Originally from https://gobyexample.com/select
+// License: https://github.com/mmcgrana/gobyexample#license
+// Modified here for fun
 
 import "time"
 import "fmt"
