@@ -1,5 +1,7 @@
 package main
 
+// Modified from https://gobyexample.com/select
+
 import "time"
 import "fmt"
 import "strconv"
